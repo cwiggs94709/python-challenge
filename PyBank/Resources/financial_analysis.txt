@@ -1,0 +1,9 @@
+Financial Analysis:
+- Total number of months: 86
+- Net total Profit/Losses: 22564198
+- Greatest Increase in Profits: Date              Mar-13
+Profit/Losses    1141840
+Name: 1970-01-01 00:00:00.000000038, dtype: object 1141840
+- Greatest Decrease in Profits: Date               Dec-10
+Profit/Losses    -1194133
+Name: 1970-01-01 00:00:00.000000011, dtype: object -1194133
